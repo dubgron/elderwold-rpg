@@ -1,0 +1,11 @@
+title: Elderwold
+permalink: pretty
+remote_theme: pmarsceill/just-the-docs
+color_scheme: light
+encoding: UTF-8
+markdown: kramdown
+
+back_to_top: true
+back_to_top_text: "Powrót do góry"
+
+footer_content: "Copyright &copy; 2022 dubgron. All rights reserved."
