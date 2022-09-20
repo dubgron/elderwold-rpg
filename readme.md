@@ -138,6 +138,12 @@ Większość przedmiotów zajmuje jedno miejsce, a małe przedmioty można ze so
 
 Postać nie może przenosić więcej przedmiotów niż pozwala na to jej ekwipunek. Drużyna może zaopatrzyć się w wózek lub zwierze pociągowe, żeby zwiększyć liczbę przedmiotów, które będzie w stanie przenieść. **Najemnicy** również mogą zostać wynajęci do przenoszenia sprzętu.
 
+## Odpoczynek
+Twoja postać może odzyskać siły na dwa sposoby:
+
+- **Krótki odpoczynek**: zajmuje 10 minut (1 turę). Łyk wody i kilka minut odpoczynku przywracają wszystkie utracone **Punkty Trafień**.
+- **Pełny odpoczynek**: zajmuje tydzień w bezpiecznym miejscu. Przywraca wartości atrybutów do stanu początkowego oraz zdejmuje większość długotrwałych stanów.
+
 
 # Walka
 Jeśli przemoc stała się nieunikniona, rozpoczyna się walka.
@@ -145,8 +151,8 @@ Jeśli przemoc stała się nieunikniona, rozpoczyna się walka.
 ## Inicjatywa
 Na początku każdej rundy walki **rzuć k6**:
 
-&emsp;**1–3**: bohaterowie działają jako pierwsi,  
-&emsp;**4–6**: przeciwnicy działają jako pierwsi.
+- **1–3**: bohaterowie działają jako pierwsi,
+- **4–6**: przeciwnicy działają jako pierwsi.
 
 Postacie nie mają ustalonej kolejności działania wewnątrz tury, ta zależy od graczy.
 
@@ -167,10 +173,10 @@ Weź kość podyktowaną przez swoją aktualną broń i wszystkie kości bonusow
 ### Atak z przewagą
 W przypadku gdy jedna ze stron zyskuje przewagę, **Arbiter** przyznaje najbardziej odpowiedni bonus:
 
-&emsp;**+k6**: Mały podstęp (piach w oczy)  
-&emsp;**+d8**: Taktyczny manewr (silna pozycja)  
-&emsp;**+k10**: Bezwzględny ruch (rozbrojony cel)  
-&emsp;**+k12**: Potężna moc (krew demona)
+- **+k6**: Mały podstęp (piach w oczy)
+- **+d8**: Taktyczny manewr (silna pozycja)
+- **+k10**: Bezwzględny ruch (rozbrojony cel)
+- **+k12**: Potężna moc (krew demona)
 
 ### Atak bez broni
 Zadaje **k4** obrażeń. Ataki bestii, uzbrojonych w zęby i pazury, nie liczą się jako **ataki bez broni**.
