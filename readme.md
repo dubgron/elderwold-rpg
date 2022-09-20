@@ -28,12 +28,10 @@ Rzuć **k20** na **Zbroję**, dwa razy na **Sprzęt do Eksploracji**, raz na **S
 
 ### Zbroja
 
-| | |
-| --- | --- |
-| 1–14 | Brak |
-| 15–17 | Lekka zbroja (**PZ1**) |
-| 18–19 | Lekka zbroja (**PZ1**) + Tarcza (**PZ+1**) |
-| 20 | Ciężka zbroja (**PZ2**) |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| 1–14 | 15–17 | 18–19 | 20 |
+| Brak | Lekka zbroja (**Z1**) | Lekka zbroja (**Z1**) + Tarcza (**T1**) | Ciężka zbroja (**Z2**) |
 
 ### Sprzęt do Eksploracji
 
@@ -137,8 +135,9 @@ Jeśli przemoc stała się nieunikniona, rozpoczyna się walka.
 
 ## Inicjatywa
 Na początku każdej rundy walki **rzuć k6**:
-* 1–3: bohaterowie działają jako pierwsi,
-* 4–6: przeciwnicy działają jako pierwsi.
+
+&emsp;**1–3**: bohaterowie działają jako pierwsi,  
+&emsp;**4–6**: przeciwnicy działają jako pierwsi.
 
 Postacie nie mają ustalonej kolejności działania wewnątrz tury, ta zależy od graczy.
 
@@ -148,7 +147,7 @@ W przypadku, gdy jest więcej niż dwie strony w walce, to każda strona rzuca k
 Jeśli atakujesz niespodziewającego się niczego przeciwnika, to w pierwszej rundzie walki Twoja postać i wszyscy jej sojusznicy, którzy znają plan, **działają jako pierwsi**, a przeciwnicy są **wystawieni na atak**.
 
 ## Wystawiony na atak
-Postacie, które są zaskoczone lub przeciążone, są **wystawione na atak**. Oznacza to, że traktowane są tak, jakby miały **0PT**. Jeżeli poprawią swoją sytuacje, to nie będą już **wystawieni na atak**. Pułapki i zasadzki atakują z zaskoczenia przez co powodują, że ofiary są **wystawione na atak**.
+Postacie, które są zaskoczone lub przeciążone, są **wystawione na atak**. Oznacza to, że traktowane są tak, jakby miały zero **PT**. Jeżeli poprawią swoją sytuacje, to nie będą już **wystawieni na atak**. Pułapki i zasadzki atakują z zaskoczenia przez co powodują, że ofiary są **wystawione na atak**.
 
 ## Broń długa
 Broń długa wymaga dwóch rąk do władania (jest **nieporęczna**) i podczas walki w nieodpowiednich warunkach, takich jak spiralna klatka schodowa, wąski tunel lub bardzo bliski dystans, atak nią jest **osłabiony**.
@@ -159,20 +158,20 @@ Weź kość podyktowaną przez swoją aktualną broń i wszystkie kości bonusow
 ### Atak z przewagą
 W przypadku gdy jedna ze stron zyskuje przewagę, **Arbiter** przyznaje najbardziej odpowiedni bonus:
 
-**+k6**: Mały podstęp (piach w oczy)  
-**+d8**: Taktyczny manewr (silna pozycja)  
-**+k10**: Bezwzględny ruch (rozbrojony cel)  
-**+k12**: Potężna moc (krew demona)
+&emsp;**+k6**: Mały podstęp (piach w oczy)  
+&emsp;**+d8**: Taktyczny manewr (silna pozycja)  
+&emsp;**+k10**: Bezwzględny ruch (rozbrojony cel)  
+&emsp;**+k12**: Potężna moc (krew demona)
 
 ### Atak bez broni
 Zadaje **k4** obrażeń. Ataki bestii, uzbrojonych w zęby i pazury, nie liczą się jako **ataki bez broni**.
 
 ### Osłabiony atak
-Zadaje **k4** obrażeń, niezależnie od używanej broni, i nie może być wzmocniony przez **kości bonusowe**.
+Zadaje **k4** obrażeń niezależnie od używanej broni i nie może być wzmocniony przez **kości bonusowe**.
 
 
 ## Obrażenia
-Obrażenia fizyczne są zmniejszane o całkowitą wartość **Pancerza (P)** postaci. Walczący mogą korzystać tylko z jednej zbroi i jednej tarczy.
+Obrażenia fizyczne są zmniejszane o całkowitą wartość **Pancerza (P)** postaci. Walczący mogą korzystać tylko z jednej **zbroi (Z)** i jednej **tarczy (T)**.
 
 Pozostałe obrażenia odejmowane są od **Punktów Trafień (PT)** postaci. Jeżeli zostanie jej przynajmniej jeden **PT**, to **uniknęła** ona ataku.
 
