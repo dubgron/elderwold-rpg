@@ -24,9 +24,9 @@ Rzuć **3k6** na każdy z atrybutów.
 
 ## 3. Ekwipunek Początkowy
 Korzystając z poniższych tabel, wylosuj ekwipunek początkowy. 
-Rzuć **k20** na **Zbroję**, dwa razy na **Sprzęt do Eksploracji**, raz na **Sprzęt Ogólny I** oraz raz na **Sprzęt Ogólny II**.
+Rzuć **k20** na **Pancerz**, dwa razy na **Sprzęt do Eksploracji**, raz na **Sprzęt Ogólny I** oraz raz na **Sprzęt Ogólny II**.
 
-### Zbroja
+### Pancerz
 
 | | | | |
 | :---: | :---: | :---: | :---: |
@@ -65,7 +65,7 @@ Rzuć **k20** na **Zbroję**, dwa razy na **Sprzęt do Eksploracji**, raz na **S
 
 Oprócz tego postać posiada **dowolną broń**, sakiewkę zawierającą **2k6 szylingów**, ubrania podróżne oraz plecak, w którym trzyma pochodnie (**Zk6**), racje żywnościowe (**Zk6**) oraz sprzęt do obozowania i kartografii.
 
-Dodatkowo, każda postać z łukiem lub kuszą posiada też kołczan i Strzały (**Zk8**).
+Dodatkowo, każda postać z łukiem lub kuszą posiada też strzały (kołczan, **Zk8**).
 
 ## 4. Cechy Postaci
 Wymyśl lub wylosuj pozostałe cechy postaci, takie jak budowa ciała, szczegół wyglądu, ubiór, przeszłość i nieszczęście – korzystając z losowych tabel poniżej. Wybierz imię swojej postaci, ale nie przywiązuj się do niej zbytnio. Świat jest bardzo niebezpiecznym miejscem.
@@ -129,6 +129,15 @@ Rzut obronny wykonywany jest w sytuacji, kiedy unikasz **zagrożenia wynikające
 ## Rzut Szczęścia
 Kiedy wynik sytuacji jest niepewny i nie zależy od **SIŁ**, **ZRE** ani **WOL** postaci, przetestuj **Szczęście**. Ustal szansę wystąpienia określonego rezultatu jako **X-na-6** (im niższa liczba, tym mniej prawdopodobne; im wyższa, tym bardziej). Następnie rzuć **k6**. Jeśli wynik jest niższy od lub równy **X**, wystąpił określony rezultat.
 
+## Obciążenie
+Postać ma łącznie 10 miejsc w ekwipunku: plecak z sześcioma miejscami, jedno miejsce na każdą rękę i dwa miejsca na sobie (np. pas, klatka piersiowa lub głowa).
+
+Większość przedmiotów zajmuje jedno miejsce, a małe przedmioty można ze sobą zgrupować. Miejsca w ekwipunku są abstrakcyjne i w razie wątpliwości decyzje podejmuje **Arbiter**.
+
+**Nieporęczne** przedmioty zajmują dwa miejsca i są zwykle dwuręczne lub niewygodne w noszeniu.
+
+Postać nie może przenosić więcej przedmiotów niż pozwala na to jej ekwipunek. Drużyna może zaopatrzyć się w wózek lub zwierze pociągowe, żeby zwiększyć liczbę przedmiotów, które będzie w stanie przenieść. **Najemnicy** również mogą zostać wynajęci do przenoszenia sprzętu.
+
 
 # Walka
 Jeśli przemoc stała się nieunikniona, rozpoczyna się walka.
@@ -169,6 +178,11 @@ Zadaje **k4** obrażeń. Ataki bestii, uzbrojonych w zęby i pazury, nie liczą 
 ### Osłabiony atak
 Zadaje **k4** obrażeń niezależnie od używanej broni i nie może być wzmocniony przez **kości bonusowe**.
 
+### Obrażenia obszarowe
+Obrażenia obszarowe zadawane są wszystkim postaciom w zasięgu ataku, rzucając osobno na każdą z nich. Jeśli liczba postaci, znajdujących się w zasięgu ataku, jest niejasna, **rzuć k6**.
+
+### Obrażenia trwające
+Zadawane są pod koniec tury ofiary, dopóki nie zostaną usunięte.
 
 ## Obrażenia
 Obrażenia fizyczne są zmniejszane o całkowitą wartość **Pancerza (P)** postaci. Walczący mogą korzystać tylko z jednej **zbroi (Z)** i jednej **tarczy (T)**.
@@ -178,19 +192,3 @@ Pozostałe obrażenia odejmowane są od **Punktów Trafień (PT)** postaci. Jeż
 Jeżeli obrażenia zredukują **PT** postaci do zera, to ich nadmiar odejmowany jest od **SIŁ** i postać zostaje **ranna**. Musi ona wykonać **rzut obronny SIŁ**, żeby uniknąć **śmiertelnej rany**. Śmiertelnie ranne postacie tracą przytomność i są umierające. Jeżeli zostaną pozostawione bez pomocy przez **godzinę**, zginą.
 
 Gdy **SIŁ** postaci spadnie do zera, to zostanie **zabita**. Jeśli jej **ZRE** lub **WOL** spadnie do zera, zostaje odpowiednio **sparaliżowana** lub doznaje **załamania nerwowego**, i nie może działać, dopóki nie odbędzie **pełnego odpoczynku**.
-
-### Obrażenia obszarowe
-Obrażenia obszarowe zadawane są wszystkim postaciom w zasięgu ataku, rzucając osobno na każdą z nich. Jeśli liczba postaci, znajdujących się w zasięgu ataku, jest niejasna, **rzuć k6**.
-
-### Obrażenia trwające
-Zadawane są pod koniec tury ofiary, dopóki nie zostaną usunięte.
-
-
-## Obciążenie
-Postać ma łącznie 10 miejsc w ekwipunku: plecak z sześcioma miejscami, jedno miejsce na każdą rękę i dwa miejsca na sobie (np. pas, klatka piersiowa lub głowa).
-
-Większość przedmiotów zajmuje jedno miejsce, a małe przedmioty można ze sobą zgrupować. Miejsca w ekwipunku są abstrakcyjne i w razie wątpliwości decyzje podejmuje **Arbiter**.
-
-**Nieporęczne** przedmioty zajmują dwa miejsca i są zwykle dwuręczne lub niewygodne w noszeniu.
-
-Postać nie może przenosić więcej przedmiotów niż pozwala na to jej ekwipunek. Drużyna może zaopatrzyć się w wózek lub zwierze pociągowe, żeby zwiększyć liczbę przedmiotów, które będzie w stanie przenieść. **Najemnicy** również mogą zostać wynajęci do przenoszenia sprzętu.
