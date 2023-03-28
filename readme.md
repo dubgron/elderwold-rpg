@@ -5,13 +5,12 @@ permalink: /
 ---
 
 # Elderwold
-
 Jest to system RPG do grania w stylu OSR i wszystkie poniższe zasady należy interpretować zgodnie z jego założeniami i pryncypiami.
 
 # Tworzenie Postaci
 
 ## 1. Atrybuty
-Rzuć **3k6** na każdy z atrybutów.
+Rzuć **3k6** kolejno na każdy z atrybutów.
 
 | | |
 | --- | --- |
@@ -127,14 +126,14 @@ Wymyśl lub wylosuj pozostałe cechy postaci, takie jak budowa ciała, szczegó�
 Rzut obronny wykonywany jest w sytuacji, kiedy unikasz **zagrożenia wynikającego z ryzykownej akcji lub sytuacji**. Rzuć **k20**. Jeżeli rezultat jest **niższy lub równy** odpowiedniemu **Atrybutowi**, to rzut kończy się **sukcesem**, a zagrożenie Cię nie dotyka. W przeciwnym wypadku rzut kończy się **porażką** i ponosisz konsekwencje wynikające z zagrożenia. Konsekwencja określa **Arbiter**. Wynik 20 to zawsze **porażka**.
 
 ## Rzut Szczęścia
-Kiedy wynik sytuacji jest niepewny i nie zależy od **SIŁ**, **ZRE** ani **WOL** postaci, przetestuj **Szczęście**. Ustal szansę wystąpienia określonego rezultatu jako **X-na-6** (im niższa liczba, tym mniej prawdopodobne; im wyższa, tym bardziej). Następnie rzuć **k6**. Jeśli wynik jest niższy od lub równy **X**, wystąpił określony rezultat.
+Kiedy wynik sytuacji jest niepewny i nie zależy od **SIŁ**, **ZRE** ani **WOL** postaci, przetestuj **Szczęście**. Ustal szansę wystąpienia określonego rezultatu jako **X–na–6** (im niższa liczba, tym mniej prawdopodobne; im wyższa, tym bardziej). Następnie rzuć **k6**. Jeśli wynik jest niższy od lub równy **X**, występuje określony rezultat.
 
 ## Obciążenie
-Postać ma łącznie 10 miejsc w ekwipunku: plecak z sześcioma miejscami, jedno miejsce na każdą rękę i dwa miejsca na sobie (np. pas, klatka piersiowa lub głowa).
+Postać ma 12 miejsc w ekwipunku: cztery przy sobie i osiem w plecaku.
 
 Większość przedmiotów zajmuje jedno miejsce, a małe przedmioty można ze sobą zgrupować. Miejsca w ekwipunku są abstrakcyjne i w razie wątpliwości decyzje podejmuje **Arbiter**.
 
-**Nieporęczne** przedmioty zajmują dwa miejsca i są zwykle dwuręczne lub niewygodne w noszeniu.
+**Nieporęczne** przedmioty zajmują dwa miejsca i są zwykle dwuręczne lub niewygodne w noszeniu. Każda postać, która ma przy sobie więcej niż dwa nieporęczne przedmioty, jest **wystawiona na atak**.
 
 Postać nie może przenosić więcej przedmiotów niż pozwala na to jej ekwipunek. Drużyna może zaopatrzyć się w wózek lub zwierze pociągowe, żeby zwiększyć liczbę przedmiotów, które będzie w stanie przenieść. **Najemnicy** również mogą zostać wynajęci do przenoszenia sprzętu.
 
@@ -148,24 +147,16 @@ Twoja postać może odzyskać siły na dwa sposoby:
 # Walka
 Jeśli przemoc stała się nieunikniona, rozpoczyna się walka.
 
-## Inicjatywa
-Na początku każdej rundy walki **rzuć k6**:
-
-- **1–3**: bohaterowie działają jako pierwsi,
-- **4–6**: przeciwnicy działają jako pierwsi.
-
-Postacie nie mają ustalonej kolejności działania wewnątrz tury, ta zależy od graczy.
-
-W przypadku, gdy jest więcej niż dwie strony w walce, to każda strona rzuca kostką tego samego rozmiaru i działają w kolejności od najniższego do najwyższego wyniku.
-
-### Zaskoczenie
-Jeśli atakujesz niespodziewającego się niczego przeciwnika, to w pierwszej rundzie walki Twoja postać i wszyscy jej sojusznicy, którzy znają plan, **działają jako pierwsi**, a przeciwnicy są **wystawieni na atak**.
+Zazwyczaj postacie graczy zaczynają turę przed przeciwnikami. Jeżeli istnieje szansa, że drużyna zostanie zaskoczona, to każdy z nich musi wykonać **rzut obronny ZRE** albo jego postać nie będzie mogła działać w pierwszej turze walki. Postacie nie mają ustalonej kolejności działania wewnątrz tury, ta zależy od graczy.
 
 ## Wystawiony na atak
 Postacie, które są zaskoczone lub przeciążone, są **wystawione na atak**. Oznacza to, że traktowane są tak, jakby miały zero **PT**. Jeżeli poprawią swoją sytuacje, to nie będą już **wystawieni na atak**. Pułapki i zasadzki atakują z zaskoczenia przez co powodują, że ofiary są **wystawione na atak**.
 
 ## Broń długa
 Broń długa wymaga dwóch rąk do władania (jest **nieporęczna**) i podczas walki w nieodpowiednich warunkach, takich jak spiralna klatka schodowa, wąski tunel lub bardzo bliski dystans, atak nią jest **osłabiony**.
+
+## Powolna akcja
+Niektóre akcje czy przedmioty są oznaczone jako **Powolne**. Aby z nich skorzystać, postać musi zadeklarować akcję na końcu swojej poprzedniej tury i w razie potrzeby wybrać cel. Deklaracja nie jest działaniem samym w sobie. Jeżeli wykonanie Powolnej akcji będzie niemożliwe, to nie można wykonać innej akcji w zamian. Postać może się jeszcze poruszyć przed wykonaniem akcji.
 
 ## Ataki
 Weź kość podyktowaną przez swoją aktualną broń i wszystkie kości bonusowe, jeżeli takie zostały przyznane. Wielu atakujących, walczących z tym samym przeciwnikiem, atakują razem. Rzuć wszystkimi kośćmi obrażeń jednocześnie. Zachowaj tylko **najwyższy wynik**. Atak zadał właśnie tyle obrażeń.
@@ -174,7 +165,7 @@ Weź kość podyktowaną przez swoją aktualną broń i wszystkie kości bonusow
 W przypadku gdy jedna ze stron zyskuje przewagę, **Arbiter** przyznaje najbardziej odpowiedni bonus:
 
 - **+k6**: Mały podstęp (piach w oczy)
-- **+d8**: Taktyczny manewr (silna pozycja)
+- **+k8**: Taktyczny manewr (silna pozycja)
 - **+k10**: Bezwzględny ruch (rozbrojony cel)
 - **+k12**: Potężna moc (krew demona)
 
@@ -184,17 +175,81 @@ Zadaje **k4** obrażeń. Ataki bestii, uzbrojonych w zęby i pazury, nie liczą 
 ### Osłabiony atak
 Zadaje **k4** obrażeń niezależnie od używanej broni i nie może być wzmocniony przez **kości bonusowe**.
 
-### Obrażenia obszarowe
-Obrażenia obszarowe zadawane są wszystkim postaciom w zasięgu ataku, rzucając osobno na każdą z nich. Jeśli liczba postaci, znajdujących się w zasięgu ataku, jest niejasna, **rzuć k6**.
-
-### Obrażenia trwające
-Zadawane są pod koniec tury ofiary, dopóki nie zostaną usunięte.
-
 ## Obrażenia
-Obrażenia fizyczne są zmniejszane o całkowitą wartość **Pancerza (P)** postaci. Walczący mogą korzystać tylko z jednej **zbroi (Z)** i jednej **tarczy (T)**.
+Obrażenia fizyczne są zmniejszane o całkowitą wartość **Zbroi (Z)** postaci. Walczący mogą korzystać tylko z jednej **zbroi** i jednej **tarczy**.
 
 Pozostałe obrażenia odejmowane są od **Punktów Trafień (PT)** postaci. Jeżeli zostanie jej przynajmniej jeden **PT**, to **uniknęła** ona ataku.
 
 Jeżeli obrażenia zredukują **PT** postaci do zera, to ich nadmiar odejmowany jest od **SIŁ** i postać zostaje **ranna**. Musi ona wykonać **rzut obronny SIŁ**, żeby uniknąć **śmiertelnej rany**. Śmiertelnie ranne postacie tracą przytomność i są umierające. Jeżeli zostaną pozostawione bez pomocy przez **godzinę**, zginą.
 
 Gdy **SIŁ** postaci spadnie do zera, to zostanie **zabita**. Jeśli jej **ZRE** lub **WOL** spadnie do zera, zostaje odpowiednio **sparaliżowana** lub doznaje **załamania nerwowego**, i nie może działać, dopóki nie odbędzie **pełnego odpoczynku**.
+
+### Obrażenia obszarowe
+Obrażenia obszarowe zadawane są wszystkim postaciom w zasięgu ataku, rzucając osobno na każdą z nich. Jeśli liczba postaci, znajdujących się w zasięgu ataku, jest niejasna, rzuć kością obrażeń broni.
+
+### Obrażenia trwające
+Obrażenia trwające zadawane są pod koniec tury ofiary, dopóki nie zostaną usunięte.
+
+
+# Ekwipunek
+Podstawową jednostką monetarną jest **srebrny szyling**. Sto **pensów (P)** to jeden **szyling (S)**. Sto **szylingów (S)** to jeden **gulden (G)**. **Sto monet** zajmuje **jedno miejsce** w ekwipunku.
+
+## Uzbrojenie
+
+| | |
+| --- | --- |
+| **Atak bez broni** | k4 Obrażeń. |
+| **Prymitywna Broń** (1S) | k6 Obrażeń, Długa. Widły, kij, siekiera itp. |
+| **Broń Ręczna** (2S) | k6 Obrażeń. Sztylet, miecz, pistolet, pałka itp. |
+| **Broń Polowa** (10S) | k8 Obrażeń, Długa. Muszkiet, para pistoletów, miecz i sztylet, halabarda itp. |
+| **Szlachetna Broń** (30S) | k8 Obrażeń. Precyzyjnie wykonana szabla, pistolet pojedynkowy, rapier itp. |
+| **Broń Ciężka** (1G) | k10 Obrażeń, Długa. Nie można strzelać w ruchu. Strzelba na słonie, długi karabin, itp. |
+| **Współczesna Zbroja** (50S) | Zbroja 1. Napierśnik i hełm. |
+| **Prymitywna Zbroja** (25S) | Zbroja 1, Nieporęczna. Przestarzała lub uroczysta zbroja. |
+| **Tarcza** (10S) | +1 Zbroi, Nieporęczna. |
+
+## Sprzęt
+
+| | |
+| --- | --- |
+| **Flashbang** (10S) | Momentarily blinds anyone that fails a DEX Save. |
+| **Fire Oil** (10S) | Sets an area alight. All inside take k6 Obrażeń each round. |
+| **Bomb** (20S) | k10 Blast. |
+| **Rocket** (20S) | k10 and a colourful explosion. |
+| **Bomba Dymna** (10S) | Fills a room with smoke when lit. Attacks through the smoke are Impaired. |
+| **Trucizna** (20S) | Lose k20 STR if consumed. |
+| **Eter** (10S) | Inhaled, STR Save or pass out for an hour. |
+| **Kwas** (10S) | k6 Obrażeń, przepala się przez większość materiałów. |
+| **Antytoksyna** (10S) | Neutralizuje większość trucizn. |
+| **Narzędzia** (1S każde) | Łom, piła, klej, szkło powiększające, kajdany, pułapka na zwierzęta, wytrychy, lustro, przybory do pisania, wędka, łopata, kotwiczka na linie, składana tyczka, 6 metrów liny, kolce itp. |
+| **Luksusy** (1G) | Przedmioty z mechanizmem zegarowym, termometr, wyszukane ubrania, biżuteria, ozdoby, luneta itp. |
+
+## Utrzymanie i zwierzęta
+
+| | |
+| --- | --- |
+| Board (per week) | Bed in a dormitory (1S), room in a boarding house (10S), town house (20S). |
+| Food and Drink | Bread and broth (10P), bottle of gin or rum (50P), pie and wine (50P), fine meal (1s). |
+| Beasts | Mule or llama (5S) to horse (1G), mutt (5s, STR k10, k6 bite.) to hound (50s, STR 2k6, k6 bite.) |
+| Birds | Parrot or raven (10s, STR k6, k4 claws) to kestrel or hawk (50S, STR k8, k6 claws). |
+
+## Najemnicy
+(cost per day, k6 hp and Ability Scores 10 unless noted).
+
+| | |
+| --- | --- |
+| Lighter Boy (1S) | STR 2k6, lantern, club. |
+| Mercenary (5S) | 2k6 hp, musket, sword. |
+| Expert (10S) | Pistol, expertise in a specific area. |
+
+
+# Doświadczenie
+Postać zdobywa **punkty doświadczenia (PD)**, kiedy sprowadza skarby oraz cenne przedmioty z niebezpiecznych wypraw do miasta. Za każdego srebrnego szylinga sprowadzonego skarbu (dzielonego równo na całą drużynę) postać zdobywa **1 PD**.
+
+| Poziom | Reputacja | Wymagania | PD |
+| :---: | :---: | :---: | :---: |
+| 0 | Nowicjusz | Jesteś w gotowości na wyprawę. | 0 |
+| 1 | Profesjonalista | Udało Ci się przeżyć co najmniej jedną wyprawę. | 250 |
+| 2 | Ekspert | Udało Ci się przeżyć co najmniej trzy wyprawy od osiągnięcia poziomu Profesjonalisty. | 750 |
+| 3 | Weteran | Udało Ci się przeżyć co najmniej pięć wypraw od osiągnięcia poziomu Eksperta i przyjąć praktykanta. | 1750 |
+| 4 | Mistrz | Masz praktykanta, która jest co najmniej na poziomie Eksperta i udało Ci się przeżyć z nim wyprawę od osiągnięcia poziomu Weterana. | 3750 |
